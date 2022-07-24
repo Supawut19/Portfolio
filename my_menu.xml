@@ -1,0 +1,42 @@
+<menu>
+  <food>
+    <name>Pizza</name>
+    <price>20$</price>
+    <calorie>500</calorie>
+  </food>
+  <food>
+    <name>Hotdog</name>
+    <price>12$</price>
+    <calorie>380</calorie>
+  </food>
+  <food>
+    <name>Hamburger</name>
+    <price>25$</price>
+    <calorie>260</calorie>
+  </food>
+   <food>
+    <name>Timsum</name>
+    <price>12$</price>
+    <calorie>260</calorie>
+  </food>
+  <food>
+    <name>Spagetti</name>
+    <price>30$</price>
+    <calorie>570</calorie>
+  </food>
+  <food>
+    <name>Noodle</name>
+    <price>5$</price>
+    <calorie>280</calorie>
+  </food>
+  <food>
+    <name>Frecnh fried</name>
+    <price>15$</price>
+    <calorie>420</calorie>
+  </food>
+  <food>
+    <name>Mango rice</name>
+    <price>30$</price>
+    <calorie>700</calorie>
+  </food>
+</menu>
