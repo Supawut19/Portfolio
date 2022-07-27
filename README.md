@@ -11,7 +11,7 @@ Assumption College Thonburi
 
 
 ## My Skils
-- spreadsheets
+- Spreadsheets
 - SQL Database
 - R programing
 - Python
