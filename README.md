@@ -10,7 +10,7 @@ SCIENCE MATHEMATIC                                              (2014 - 2016)
 Assumption College Thonburi
 
 
-## My Skils
+## My Skills
 - Spreadsheets
 - SQL Database
 - R programing
